@@ -1,7 +1,7 @@
 ---
-date: '2017-06-23T00:32:34.856Z'
+date: '2017-08-03T03:37:51.408Z'
 layout: work
-title: 'Project A'
+title: 'Project Cars'
 description: 'UX and app development for Client A. This should be a short, catchy description of the project.'
 thumbnail: project_a_thumb.png
 ---
