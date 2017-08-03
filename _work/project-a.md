@@ -1,9 +1,9 @@
 ---
-date: '2017-08-03T03:38:57.145Z'
+date: '2017-08-03T03:37:51.408Z'
 layout: work
-title: 'Project Cars 2'
+title: 'Project Cars'
 description: 'UX and app development for Client A. This should be a short, catchy description of the project.'
-thumbnail: project_a_thumb.png
+thumbnail: boat.jpg
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
